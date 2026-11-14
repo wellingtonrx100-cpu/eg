@@ -19,7 +19,6 @@ num_acoes = len(acoes)
 
 # ---------------------------------------------------------
 # 2. INICIALIZAÇÃO DA TABELA Q E PARÂMETROS
-# ---------------------------------------------------------
 
 tabela_q = np.zeros((linhas, colunas, num_acoes))
 
