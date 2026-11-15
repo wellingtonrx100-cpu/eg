@@ -1,4 +1,4 @@
-# 🚀 Nome do Projeto
+# 🚀 Labirinto
 
 > Uma breve frase de uma linha explicando o que o seu projeto faz.
 
