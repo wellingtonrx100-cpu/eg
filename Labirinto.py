@@ -1,5 +1,6 @@
 import numpy as np
 import random
+import coisa Braba
 
 # ---------------------------------------------------------
 # 1. DEFINIÇÃO DO AMBIENTE (O LABIRINTO)
